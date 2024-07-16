@@ -7,6 +7,6 @@ class Conn:
                                 'PORT=3306;'
                                 'DATABASE=bank;'
                                 'USER=root;'
-                                'PASSWORD=Vikashini@7;'
+                                'PASSWORD=**********;'
                                 'TRUSTED_CONNECTION=Yes;')
     cursor = connection.cursor()
